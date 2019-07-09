@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Edge Case
-category: java类
+title: java
+sidebar_link: true
 ---
 my first category
