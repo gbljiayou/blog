@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Edge Case
+title: 第一个分类
 ---
 
 Sample category page. You need to create a page for each category.
